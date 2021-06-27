@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **IT Support**
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 I’m currently learning **SQL and Databases**
 
 - 📫 How to reach me **adm.gustavo.lima@gmail.com**
 
