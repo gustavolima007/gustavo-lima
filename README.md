@@ -22,4 +22,4 @@
 📈 **Top Languages:**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolima007&layout=compact&theme=merko)  
 
-📬 Let’s connect: [LinkedIn](https://linkedin.com/in/seu-perfil) | [Email](mailto:adm.gustavo.lima@live.com)
+📬 Let’s connect: [LinkedIn](https://linkedin.com/in/gustavo-lima-007) | [Email](mailto:adm.gustavo.lima@live.com)
