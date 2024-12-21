@@ -1,9 +1,9 @@
 # 👨‍💻 Gustavo Lima  
 
-🚀 **Data Engineer | Microsoft Fabric | Google Cloud | Oracle SQL
+🚀 **Data Engineer | Google Cloud | Oracle SQL | Fabric Specialist**  
 
 🔹 **Key Skills:**  
-- **Data Orchestration:** Fabric, Azure Data Factory  
+- **Data Orchestration:** Fabric (Implemented in production), Azure Data Factory  
 - **Cloud Platforms:** Google Cloud Platform (GCP), BigQuery  
 - **Databases:** Oracle SQL, PL/SQL  
 - **Programming:** Python (APIs, Automation)  
@@ -13,6 +13,13 @@
 - Optimized orchestration processes to improve data pipeline performance.  
 
 🔹 **Currently:**  
-- Exploring advanced GCP and Fabric services.  
+- Exploring advanced GCP services and real-time data solutions.  
+- Pursuing **Fabric Certification** to deepen my expertise.  
 
-📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/gustavo-lima-007/)
+📊 **GitHub Stats:**  
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolima007&show_icons=true&theme=merko)  
+
+📈 **Top Languages:**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolima007&layout=compact&theme=merko)  
+
+📬 Let’s connect: [LinkedIn](https://linkedin.com/in/seu-perfil) | [Email](mailto:adm.gustavo.lima@live.com)
