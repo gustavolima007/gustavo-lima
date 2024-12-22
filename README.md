@@ -14,12 +14,13 @@
 
 🔹 **Currently:**  
 - Exploring advanced GCP services and real-time data solutions.  
-- Pursuing **Fabric Certification** to deepen my expertise.  
+- Pursuing **Fabric Certification** to deepen my expertise.
+  
+📬 Let’s connect: [LinkedIn](https://linkedin.com/in/gustavo-lima-007) | [Email](mailto:adm.gustavo.lima@live.com)
 
 📊 **GitHub Stats:**  
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolima007&show_icons=true&theme=merko)  
 
-📈 **Top Languages:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolima007&layout=compact&theme=merko)  
-
-📬 Let’s connect: [LinkedIn](https://linkedin.com/in/gustavo-lima-007) | [Email](mailto:adm.gustavo.lima@live.com)
+![SQL](https://img.shields.io/badge/SQL-%230066CC.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%230078D7.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
