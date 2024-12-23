@@ -18,9 +18,6 @@
   
 📬 Let’s connect: [LinkedIn](https://linkedin.com/in/gustavo-lima-007) | [Email](mailto:adm.gustavo.lima@live.com)
 
-📊 **GitHub Stats:**  
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolima007&show_icons=true&theme=merko)  
-
 ![SQL](https://img.shields.io/badge/SQL-%230066CC.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%230078D7.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
