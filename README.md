@@ -2,18 +2,16 @@
 
 ## 📖 Sobre Mim  
 
-✨ Transformando dados em insights.  
-📚 Atualmente aprendendo serviços avançados do GCP e buscando a certificação Fabric.  
-🎯 **Objetivos:** Dominar soluções de dados em tempo real e expandir minha expertise em engenharia de dados.  
-🎲 **Curiosidade:** Amo otimizar consultas SQL complexas!  
-🚀 **Engenheiro de Dados | Google Cloud | Oracle SQL | Especialista em Fabric**  
+✨ Engenheiro de Dados com experiência em Oracle SQL.  
+📚 Estudando **Google Cloud Platform (GCP)** e **Microsoft Fabric**.  
+🚀 Apaixonado por otimizar consultas SQL e criar soluções eficientes para dados.  
 
-## 🛠 Stack de Tecnologias  
+## 🛠 Tecnologias
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-%230078D7.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric">
-  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/SQL-%230066CC.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL">
+  <a href="https://www.microsoft.com/en-usr/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/gustavolima007/gustavolima007/assets/powerbi.png"  width="36" height="36" alt="Microsoft Power BI" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer"><img src="https://github.com/gustavolima007/gustavolima007/assets/fabric.png"  width="36" height="36" alt="Microsoft Fabric" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gustavolima007/gustavolima007/assets/GCP_wallpaper.jpg" width="36" height="36" alt="Google Cloud Platform" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gustavolima007/gustavolima007/assets/python-colored.svg" width="36" height="36" alt="Python" /></a>
+ <a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"><img src="https://github.com/gustavolima007/gustavolima007/assets/Oracle_SQL.png" width="36" height="36" alt="Oracle" /></a>
 </div>
