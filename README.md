@@ -1,8 +1,25 @@
-## 📖 Sobre Mim  
+# 🚀 Engenheiro de Dados | Oracle SQL | GCP | Microsoft Fabric
 
-✨ Engenheiro de Dados com experiência em Oracle SQL.  
-📚 Estudando **Google Cloud Platform (GCP)** e **Microsoft Fabric**.  
-🚀 Apaixonado por otimizar consultas SQL e criar soluções eficientes para dados.  
+Transformo dados em ouro, criando soluções inovadoras e eficientes para impulsionar a tomada de decisões. Minha especialidade é otimizar consultas SQL e desenvolver pipelines de dados robustos em ambientes de alta performance.
+
+## 💡 Habilidades
+- ✅ SQL Performance & Tuning (Oracle)
+- ✅ Engenharia de Dados no Google Cloud & Microsoft Fabric
+- ✅ Modelagem de Dados & Pipelines de Processamento
+
+## 📌 Projetos & Estudos
+
+### 🎓 Pós em Especialização Engenharia de Banco de Dados - Unicamp  
+🔗 [Repositório](https://github.com/gustavolima007/Unicamp_Engenharia-banco-de-dados/blob/main/README.md)
+
+### 🤖 Bootcamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot  
+🔗 [Repositório](https://github.com/gustavolima007/Bootcamp_Heineken-IA-Aplicada-a-Dados-com-Copilot/blob/main/README.md)
+
+### 🖥️ Microsoft Fabric Data Engineering  
+🔗 [Repositório](https://github.com/gustavolima007/Microsoft-Fabric_Data-Engineering/blob/main/README.md)
+
+### ☁️ Google Cloud Platform - Estudos em Engenharia de Dados  
+🔗 [Repositório](https://github.com/gustavolima007/Google-Cloud-Platform_Data-Engineering/blob/main/README.md)
 
 ## 🛠 Tecnologias  
 
