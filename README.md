@@ -9,6 +9,9 @@ Transformo dados em ouro, criando soluções inovadoras e eficientes para impuls
 
 ## 📌 Projetos & Estudos
 
+### 🐍 Ciência de Dados com Python  
+🔗 [Repositório](https://github.com/gustavolima007/python-data-science.git)
+
 ### 🎓 Pós em Especialização Engenharia de Banco de Dados - Unicamp  
 🔗 [Repositório](https://github.com/gustavolima007/Unicamp_Engenharia-banco-de-dados/blob/main/README.md)
 
@@ -16,10 +19,13 @@ Transformo dados em ouro, criando soluções inovadoras e eficientes para impuls
 🔗 [Repositório](https://github.com/gustavolima007/Bootcamp_Heineken-IA-Aplicada-a-Dados-com-Copilot/blob/main/README.md)
 
 ### 🖥️ Microsoft Fabric Data Engineering  
-🔗 [Repositório](https://github.com/gustavolima007/Microsoft-Fabric_Data-Engineering/blob/main/README.md)
+🔗 [Repositório](https://github.com/gustavolima007/microsoft-fabric-data-engineering.git)
 
-### ☁️ Google Cloud Platform - Estudos em Engenharia de Dados  
-🔗 [Repositório](https://github.com/gustavolima007/Google-Cloud-Platform_Data-Engineering/blob/main/README.md)
+### ☁️ Google Cloud Platform - BigQuery com Python  
+🔗 [Repositório](https://github.com/gustavolima007/gcp-bigquery-python.git)
+
+### 📊 Jornada no Power BI  
+🔗 [Repositório](https://github.com/gustavolima007/powerbi-journey.git)
 
 ## 🛠 Tecnologias  
 
@@ -43,4 +49,4 @@ Transformo dados em ouro, criando soluções inovadoras e eficientes para impuls
 
 <a href="https://www.linkedin.com/in/gustavo-lima-007/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>  
+</a>
