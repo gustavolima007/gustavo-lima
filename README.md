@@ -1,11 +1,14 @@
 # 🚀 Engenheiro de Dados | Oracle SQL | GCP | Microsoft Fabric
 
-Transformo dados em ouro, criando soluções inovadoras e eficientes para impulsionar a tomada de decisões. Minha especialidade é otimizar consultas SQL e desenvolver pipelines de dados robustos em ambientes de alta performance.
+Desenvolvimento SQL em ambientes de alta performance, automações RPA e agentes de IA.
 
 ## 💡 Habilidades
 - ✅ SQL Performance & Tuning (Oracle)
 - ✅ Engenharia de Dados no Google Cloud & Microsoft Fabric
-- ✅ Modelagem de Dados & Pipelines de Processamento
+- ✅ Automação RPA
+- ✅ Desenvolvimento de Agentes de Inteligência Artificial
+- ✅ Desenvolvimento Python
+- ✅ Desenvolvimento SQL
 
 ## 📌 Projetos & Estudos
 
@@ -24,9 +27,6 @@ Transformo dados em ouro, criando soluções inovadoras e eficientes para impuls
 ### ☁️ Google Cloud Platform - BigQuery com Python  
 🔗 [Repositório](https://github.com/gustavolima007/gcp-bigquery-python.git)
 
-### 📊 Jornada no Power BI  
-🔗 [Repositório](https://github.com/gustavolima007/powerbi-journey.git)
-
 ## 🛠 Tecnologias  
 
 <div align="left">
@@ -39,6 +39,28 @@ Transformo dados em ouro, criando soluções inovadoras e eficientes para impuls
   <a href="https://copilot.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gustavolima007/gustavolima007/blob/main/assets/copilot-fotor.png" width="36" height="36" alt="Oracle" /></a>
 
   
+</div>
+
+## 📈 GitHub Stats
+<div align="center">
+  <!-- <a href="https://github.com/gustavolima007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavolima007&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
+  </a> -->
+  <!-- <a href="https://github.com/gustavolima007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolima007&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=FFFFFF"/>
+  </a> -->
+  <a href="https://github.com/gustavolima007">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavolima007&theme=github_dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/gustavolima007">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavolima007&theme=github_dark&hide_border=true"/>
+  </a>
+  <!-- <a href="https://github.com/gustavolima007">
+    <img src="https://github-profile-trophy.vercel.app/?username=gustavolima007&theme=githubdark&no-frame=true&margin-w=4"/>
+  </a>
+  <a href="https://github.com/gustavolima007">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavolima007&theme=github_dark&hide_border=true"/>
+  </a> -->
 </div>
 
 ## 🌐 Contatos  
