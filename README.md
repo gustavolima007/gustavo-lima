@@ -1,12 +1,14 @@
 # ⚙️ Engenheiro de Dados | Oracle SQL | GCP | Microsoft Fabric
 
-Atuação em desenvolvimento SQL de alta performance, engenharia de dados em cloud e automações RPA.
+Engenheiro de Dados com atuação em **SQL de alta performance**, **engenharia de dados em cloud** e **automação de processos (RPA)**.  
+Experiência em ambientes orientados a dados, performance, confiabilidade e escalabilidade.
 
-## 💡 Habilidades
+## 💡 Competências Técnicas
 - SQL Performance, Tuning e Desenvolvimento (Oracle)
-- Engenharia de Dados no Google Cloud & Microsoft Fabric
-- Automação RPA
-- Desenvolvimento em Python
+- Engenharia de Dados no Google Cloud Platform (GCP)
+- Engenharia de Dados no Microsoft Fabric
+- Automação de Processos (RPA)
+- Desenvolvimento em Python para dados e automações
 
 ## 📈 Atividade no GitHub
 
@@ -18,28 +20,34 @@ Atuação em desenvolvimento SQL de alta performance, engenharia de dados em clo
 
 ## 📌 Projetos & Estudos
 
-- 🛢️ **[MongoDB Monitoring com Python](https://github.com/gustavolima007/mongodb-monitoring)** – Projeto de monitoramento em Python para estudo de integração com MongoDB, coleta de métricas e observabilidade.
+- 🛢️ **[MongoDB Monitoring com Python](https://github.com/gustavolima007/mongodb-monitoring)**  
+  Monitoramento de aplicações em Python com integração ao MongoDB, foco em coleta de métricas, observabilidade e boas práticas.
 
-- 🐍 **[Python Lab](https://github.com/gustavolima007/python-lab-gl)** – Repositório para estudos, experimentos e testes em Python, abordando conceitos fundamentais e boas práticas.
+- 🐍 **[Python Lab](https://github.com/gustavolima007/python-lab-gl)**  
+  Laboratório de estudos em Python, abordando fundamentos, automações e organização de código.
 
-- 📊 **[Power BI Lab](https://github.com/gustavolima007/powerbi-lab-gl)** – Repositório dedicado a estudos e experimentos em Power BI, com foco em modelagem de dados, DAX e visualização.
+- 📊 **[Power BI Lab](https://github.com/gustavolima007/powerbi-lab-gl)**  
+  Estudos em Power BI com foco em modelagem de dados, DAX e visualização analítica.
 
-- 🌍 **[English Tech Fluency](https://github.com/gustavolima007/english-tech-fluency)** – Repositório para estudos de inglês técnico voltado à tecnologia, documentação e comunicação profissional.
+- 🌍 **[English Tech Fluency](https://github.com/gustavolima007/english-tech-fluency)**  
+  Estudos contínuos de inglês técnico aplicado à tecnologia e documentação.
 
-- 🎓 **[Pós-graduação – Especialização em Engenharia de Banco de Dados (UNICAMP)](https://github.com/gustavolima007/Unicamp_Engenharia-banco-de-dados)** – Materiais e estudos relacionados à especialização em Engenharia de Banco de Dados.
+- 🎓 **[Especialização em Engenharia de Banco de Dados – UNICAMP](https://github.com/gustavolima007/Unicamp_Engenharia-banco-de-dados)**  
+  Materiais e estudos relacionados à pós-graduação em Engenharia de Banco de Dados.
 
-- 🤖 **[Bootcamp Heineken – IA Aplicada a Dados com Copilot](https://github.com/gustavolima007/Bootcamp_Heineken-IA-Aplicada-a-Dados-com-Copilot)** – Projetos e estudos focados em Inteligência Artificial aplicada a dados utilizando GitHub Copilot.
+- 🤖 **[Bootcamp Heineken – IA Aplicada a Dados com Copilot](https://github.com/gustavolima007/Bootcamp_Heineken-IA-Aplicada-a-Dados-com-Copilot)**  
+  Projetos e estudos voltados à aplicação de IA no contexto de dados, com apoio do GitHub Copilot.
 
-## ⚡ Minhas contribuições no GitHub
+## ⚡ Contribuições no GitHub
 
 ![GitHub 3D Contrib](./profile-3d-contrib/profile-night-green.svg)
 
-## 🌐 Contatos  
+## 🌐 Contatos
 
-<a href="https://github.com/gustavolima007" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/gustavolima007" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/gustavo-lima-007/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/gustavo-lima-007/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
